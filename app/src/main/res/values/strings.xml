@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emerson</string>
+    <string name="main_text">Order #</string>
+    <string name="task_one">Task 1</string>
+    <string name="estimated_qty">Estimated Quantity</string>
+    <string name="actual_qty">Actual Quantity</string>
+    <string name="task_two">Task 2</string>
+    <string name="task_three">Task 3</string>
+    <string name="completed">Completed</string>
+</resources>
